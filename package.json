@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-payment-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlosremolina/nodejs-payment-gateway.git"
+  },
+  "author": "kby0s <keyblack.hack@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlosremolina/nodejs-payment-gateway/issues"
+  },
+  "homepage": "https://github.com/karlosremolina/nodejs-payment-gateway#readme"
+}
